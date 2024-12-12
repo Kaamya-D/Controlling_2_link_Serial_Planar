@@ -1,6 +1,9 @@
 # Controlling_2_link_Serial_Planar
 
 ![image](https://github.com/user-attachments/assets/6e0c6b84-be04-428b-aed8-e6c4557f3564)
+![image](https://github.com/user-attachments/assets/d63d4ba6-8dd8-46a8-a5ed-9dc6ba3d7f41)
+![image](https://github.com/user-attachments/assets/02a1db5a-0ebe-4708-ae93-d1798fbfc24b)
+
 ![image](https://github.com/user-attachments/assets/1d08b243-4902-4bc6-99b6-c062815ced80)
 
 ![image](https://github.com/user-attachments/assets/9c751f89-4c85-48bc-98a7-7c9f2d213896)
