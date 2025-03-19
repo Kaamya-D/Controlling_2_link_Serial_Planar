@@ -2,35 +2,7 @@
 ## Project Overview
 This project implements and analyzes the control of a two-link robotic manipulator using various control strategies, including Proportional (P), Proportional-Integral (PI), Proportional-Derivative (PD), and Proportional-Integral-Derivative (PID) controllers. The objective is to bring the joint angles of the manipulator from an initial position to a desired position using MATLAB simulations.
 
-## Problem Statement
 
-The system dynamics of a two-link manipulator are described using the Euler-Lagrange equations:
-
-M(q) * q_ddot + C(q, q_dot) * q_dot + G(q) = τ
-
-where:
-
-q represents the joint angles
-
-M(q) is the mass matrix
-
-C(q, q_dot) represents the Coriolis and centrifugal effects
-
-G(q) is the gravitational force
-
-τ is the torque applied to each joint
-
-Given Parameters:
-
-m1 = 10kg, m2 = 5kg
-
-l1 = 0.2m, l2 = 0.1m
-
-g = 9.81m/s²
-
-Initial Joint Angles: q(0) = [0.1, 0.1]
-
-Desired Joint Angles: q_f = [0, 0]
 
 ## Implementation
 The system is modeled and simulated in MATLAB. The project consists of:
